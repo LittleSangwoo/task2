@@ -1,5 +1,3 @@
-import kotlin.system.exitProcess
-
 fun main() {
     val uniqNum = (1..33).shuffled()
     val alphabet = listOf('а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э', 'ю', 'я')
